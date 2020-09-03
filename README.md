@@ -54,8 +54,8 @@ This project was developed with the following technologies:
     - @react-navigation/bottom-tabs
     - @react-navigation/native
 -  [React-Native](https://facebook.github.io/react-native/)
--  [React Native Gesture Handler](https://kmagiera.github.io/react-native-gesture-handler/)
--  [styled-components](https://www.styled-components.com/)
+-  [Gesture Handler](https://kmagiera.github.io/react-native-gesture-handler/)
+-  [Styled-components](https://www.styled-components.com/)
 -  [Reanimated](https://github.com/software-mansion/react-native-reanimated)
 -  [Safe-Area-Context](https://github.com/th3rdwave/react-native-safe-area-context)
 -  [Screens](https://github.com/software-mansion/react-native-screens)
