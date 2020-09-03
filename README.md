@@ -26,8 +26,6 @@
   <a href="https://img.shields.io/github/issues/Danilo-Js/Twitch-clone-app/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/Danilo-Js/Twitch-clone-app">
   </a>
-
-  <img alt="GitHub" src="https://img.shields.io/github/license/Danilo-Js/Twitch-clone-app">
 </p>
 
 <p align="center" direction="row">
