@@ -18,10 +18,6 @@
   </a>
   
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/Danilo-Js/Twitch-clone-app">
-  
-  <a href="https://img.shields.io/github/repo-size/Danilo-Js/Twitch-clone-app/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/repo-size/Danilo-Js/Twitch-clone-app">
-  </a>
 </p>
 
 <p align="center">
