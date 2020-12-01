@@ -22,10 +22,18 @@
   <a href="https://img.shields.io/github/repo-size/Danilo-Js/Twitch-clone-app/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/repo-size/Danilo-Js/Twitch-clone-app">
   </a>
+</p>
 
+<p align="center">
   <a href="https://img.shields.io/github/issues/Danilo-Js/Twitch-clone-app/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/Danilo-Js/Twitch-clone-app">
   </a>
+    
+  <img alt="Repository forks" src="https://img.shields.io/github/forks/Danilo-Js/Twitch-clone-app">
+  
+  <img alt="Repository stars" src="https://img.shields.io/github/stars/Danilo-Js/Twitch-clone-app">
+  
+  <img alt="Repository license" src="https://img.shields.io/github/license/Danilo-Js/Twitch-clone-app">
 </p>
 
 <p align="center" direction="row">
@@ -40,6 +48,7 @@
   <img alt="Android" width="287" src="https://github.com/Danilo-Js/Twitch-clone-app/blob/master/ReadmeGIFS/Android.gif">
   <img alt="iOS" width="300" src="https://github.com/Danilo-Js/Twitch-clone-app/blob/master/ReadmeGIFS/iOS.gif">
 </p>
+
 
 ## :rocket: Technologies
 
