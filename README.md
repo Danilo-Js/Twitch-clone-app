@@ -12,10 +12,6 @@
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Danilo-Js/Twitch-clone-app">
 
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Danilo-Js/Twitch-clone-app">
-
-  <a href="https://www.codacy.com?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Danilo-Js/Twitch-clone-app&amp;utm_campaign=Badge_Grade">
-    <img alt="Codacy grade" src="https://app.codacy.com/project/badge/Grade/32c63a3a3aef4c0493cb534423518850">
-  </a>
   
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/Danilo-Js/Twitch-clone-app">
 </p>
